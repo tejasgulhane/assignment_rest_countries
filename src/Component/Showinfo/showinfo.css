@@ -1,0 +1,9 @@
+.capital{
+    border: 1px solid white;
+    margin-left: 20px;
+    width: 30%;
+    color: bisque;
+    font-weight: 600;
+    font-size: 25px;
+    padding: 12px;
+}
